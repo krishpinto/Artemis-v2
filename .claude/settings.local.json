@@ -20,7 +20,12 @@
       "Bash(npm whoami:*)",
       "Bash(taskkill /F /IM node.exe)",
       "Bash(cmd /c \"taskkill /F /IM node.exe\")",
-      "Bash(cmd /c \"taskkill /F /IM node.exe && echo killed || echo no_node\")"
+      "Bash(cmd /c \"taskkill /F /IM node.exe && echo killed || echo no_node\")",
+      "Bash(gh repo *)",
+      "Bash(gh auth *)",
+      "Bash(git remote *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
